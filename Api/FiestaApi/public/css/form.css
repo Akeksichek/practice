@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+.container {
+    max-width: 1664px;
+    margin: 0 auto;
+}
+
+.logo {
+    margin: 0 auto;
+    margin-top: 5.47vw;
+    height: 366px;
+    width: 530px;
+}
+
+.login {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 278px;
+    color: white;
+}
+
+.reg {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 37px;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.form {
+    margin-top: 80px;
+}
+
+.fail {
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.click {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    border: 0;
+    color: white;
+    background-color: #7365A2;
+    width: 400px;
+    height: 35px;
+    border-radius: 30px;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+
+.name {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 400px;
+    height: 35px;
+    border-radius: 30px;
+    border: 0;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.preview {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    color: white;
+    border: 0;
+    margin-top: 15px;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 15px;
+    color: white;
+    border: 0;
+}
+
+.desc {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    border: 0;
+    font-size: 20px;
+    margin-top: 15px;
+    padding-left: 20px;
+    padding-top: 20px;
+}

@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+.container {
+    max-width: 1664px;
+    margin: 0 auto;
+}
+
+.dd {
+    color: red;
+}
+
+.logo {
+    margin: 0 auto;
+    margin-top: 5.47vw;
+    height: 366px;
+    width: 530px;
+}
+
+.login {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 278px;
+    color: white;
+}
+
+.reg {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 37px;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.preview {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.video {
+    width: 1143px;
+    height: 549px;
+}
+
+.video_block {
+    margin-top: 100px;
+    border-radius: 50px;
+}
+
+.name {
+    font-family: 'Comfortaa', cursive;
+    font-size: 32px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: start;
+    margin-left: 238px;
+    margin-top: 58px;
+    width: 1102px;
+}
+
+.desc {
+    font-family: 'Comfortaa', cursive;
+    font-size: 16px;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 238px;
+    margin-top: 58px;
+    width: 1143px;
+    text-align: start;
+}
+
+.likes {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 325px;
+}
+
+.like {
+    display: flex;
+    margin-right: 100px;
+    color: white;
+}
+
+.Llike {
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.dislike {
+    color: white;
+    display: flex;
+}
+
+.Ldislike {
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.currentTime {
+    color: white;
+}
+
+.comment-author {
+    color: white;
+}
+
+.comment-text {
+    color: white;
+}
+
+.commblock {
+    margin-top: 50px;
+}
+
+#comment-input {
+    width: 500px;
+    height: 15px;
+    resize: none;
+    background-color: #333C64;
+    border: none;
+    color: white;
+    padding-left: 30px;
+    outline: none;
+    border-bottom: solid 1px #7365A2;
+}
+
+#comment-input::placeholder {
+    color: white;
+    margin-top: 2px;
+}
+
+.button {
+    border: none;
+    color: white;
+    background-color: #7365A2;
+    border-radius: 30px;
+    width: 100px;
+    height: 30px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+#comments-list {
+    text-align: start;
+    margin-left: 128px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.comment {
+    display: flex;
+}
+
+.currentTime {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    margin-left: 10px;
+    font-size: 10px;
+    padding-top: 5px;
+}
+
+.comment-author {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+}
+
+.comment-text {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    margin-left: 50px;
+}

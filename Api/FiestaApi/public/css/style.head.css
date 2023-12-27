@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+.container {
+    max-width: 1664px;
+    margin: 0 auto;
+}
+
+.dd {
+    font-size: 50px;
+}
+
+.logo {
+    background-image: url(img/logo.svg);
+    margin: 0 auto;
+    margin-top: 5.47vw;
+    height: 366px;
+    width: 530px;
+}
+
+.login {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 278px;
+    color: white;
+}
+
+.reg {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 37px;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.preview {
+    margin-left: 128px;
+    margin-right: 128px;
+    margin-top: 271px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.photo {
+    width: 541px;
+    height: 302px;
+    margin-left: 20px;
+    margin-bottom: 334px;
+}
+
+.photos {
+    width: 541px;
+    height: 302px;
+    border-radius: 30px;
+}
+
+.text {
+    color: white;
+    font-size: 32px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    margin-top: 23px;
+}
+
+.name {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    color: #A9A9A9;
+    font-size: 26px;
+    margin-top: 23px;
+}
